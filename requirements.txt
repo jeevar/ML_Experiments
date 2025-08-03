@@ -1,0 +1,15 @@
+# Core ML and Data Science Libraries
+numpy>=1.21.0
+pandas>=1.3.0
+scikit-learn>=1.1.0
+
+# Additional utilities
+requests>=2.25.0
+
+# Visualization libraries (required for Jupyter notebook)
+matplotlib>=3.5.0
+seaborn>=0.11.0
+
+# Development tools (optional)
+# jupyter>=1.0.0
+# pytest>=6.0.0
